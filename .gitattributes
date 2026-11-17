@@ -1,0 +1,3 @@
+# Every file is checked out as it is committed, on every platform: the
+# OpenSSL sources are built as the crate publishes them, byte for byte.
+* -text
